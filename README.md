@@ -16,7 +16,7 @@ Start it:
 $ node app.js
 ```
 
-and go to http://127.0.0.1:8080/index.html (not http://localhost:8080/index.html). Chrome will ask you to accept the SSL certificate. Accept it.
+and go to https://127.0.0.1:8081/index.html (not http://localhost:8080/index.html). Chrome will ask you to accept the SSL certificate. Accept it.
 
 Post list page is http://127.0.0.1:8080/
 
